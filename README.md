@@ -16,9 +16,13 @@
 - [基礎程式語言 Java]
 - [程式語言 Python 第二版]
 - [基礎程式語言 Python 第二版]
-- [網頁資料擷取與分析 Python 3](https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=n3V3YTVlWkQ=)
 - [程式語言 Python 3](https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=y/zEfkGeQhM=)
 - [基礎程式語言 Python 3](https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=D7bzUZWU2%20Q=)
+- [網頁資料擷取與分析 Python 3](https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=n3V3YTVlWkQ=)
+- [物件導向程式語言 C# 7](https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=oI628ByfbDY=)
+- [基礎物件導向程式語言 C# 7](https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=Ob4QmOThfYw=)
+- [物件導向程式語言 Java 17](https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=tcFNhoVP6T8=)
+- [基礎物件導向程式語言 C# 17](https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=srmrVt8ILvg=)
 
 ## Dependency Extension
 
