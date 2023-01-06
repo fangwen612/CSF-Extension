@@ -25,18 +25,18 @@
 以下為此套件包相依的擴充套件:
 
 1. [Chinese (Traditional) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant)
-    - 中文 (繁體) 語言套件，讓 VSCode 提供本地化的使用者介面。
+- 中文 (繁體) 語言套件，讓 VSCode 提供本地化的使用者介面。
 2. [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-    - 程式語言執行套件，讓使用者在 VSCode 執行各種程式語言，如：C、C++、C#、Go、Java、Python、PHP、R、Lua等等。
+- 程式語言執行套件，讓使用者在 VSCode 執行各種程式語言，如：C、C++、C#、Go、Java、Python、PHP、R、Lua等等。
 3. [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
-    - C/C++的延伸模組套件，提供使用者C/C++ IntelliSense、debugging、code browsing
+- C/C++的延伸模組套件，提供使用者C/C++ IntelliSense、debugging、code browsing
 4. [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
-    - C#套件，是.NET Core的輕量級開發工具。提供使用者C# IntelliSense、語法高亮顯示、編輯、定義與查找引用等。
+- C#套件，是.NET Core的輕量級開發工具。提供使用者C# IntelliSense、語法高亮顯示、編輯、定義與查找引用等。
 5. [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
-    - Go套件，提供使用者Go IntelliSense、代碼導航、編輯、debugging與測試等。
+- Go套件，提供使用者Go IntelliSense、代碼導航、編輯、debugging與測試等。
 6. [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
-    - Java的延伸模組套件，提供使用者Java IntelliSense、debugging、測試、Maven/Gradle 支援與專案管理等。
+- Java的延伸模組套件，提供使用者Java IntelliSense、debugging、測試、Maven/Gradle 支援與專案管理等。
 7. [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-    - Python套件，提供使用者Python IntelliSense、linting、debugging、程式碼導航、Jupyter Notebook支援與重構等功能。
+- Python套件，提供使用者Python IntelliSense、linting、debugging、程式碼導航、Jupyter Notebook支援與重構等功能。
 
 **Enjoy!**
